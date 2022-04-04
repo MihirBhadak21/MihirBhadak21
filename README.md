@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development (python)
 - 💞️ I’m looking to collaborate on web development 
-- 📫 How to reach me by send email on bhadakmihir1@gmail.com
 
 <!---
 MihirBhadak21/MihirBhadak21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
